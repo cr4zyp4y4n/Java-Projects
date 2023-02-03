@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DivisionRecursiva {
+public class RecursionDivision  {
     public static void main(String[] args) {
         System.out.println(divisionRecursiva(llegirInt("Escribe el dividendo: ",0,999),llegirInt("Escribe el divisor: ",0,999)));
     }

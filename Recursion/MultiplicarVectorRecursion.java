@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MultiplicarVectorRecursiu {
+public class MultiplicarVectorRecursion {
     public static void main(String[] args) {
 
         int[] vector1 = introduirNumeros();

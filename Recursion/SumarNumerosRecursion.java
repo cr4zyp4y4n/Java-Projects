@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SumarNumerosRecursiva {
+public class SumarNumerosRecursion {
     public static void main(String[] args) {
         System.out.println(sumaDigitos(llegirInt("Escribe el numero para sumar sus dígitos: ",0,9999999)));
     }

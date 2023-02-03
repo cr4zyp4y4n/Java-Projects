@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SumarVectorRecursiva {
+public class SumarVectorRecursion {
     public static void main(String[] args) {
 
         int[] vector1 = introduirNumeros();
